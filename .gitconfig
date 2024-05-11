@@ -1,0 +1,6 @@
+[user]
+	name = Sylvia Akotia
+	email = sylvia.akot@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = true
